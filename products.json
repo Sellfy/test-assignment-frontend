@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "_id": "67472f65d2c7c1a0cf655924",
+      "price": 2599,
+      "name": "Wireless Headphones",
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "currency": "USD",
+      "category": "Electronics",
+      "url": "https://example.com/product/67472f65d2c7c1a0cf655924",
+      "image_url": "https://github.com/Sellfy/test-assignment-frontend/raw/refs/heads/master/images/image-1.jpg"
+    },
+    {
+      "_id": "6747354227fb516596e17f0f",
+      "price": 799,
+      "name": "Polaroid OneStep 2 i-Type Camera",
+      "description": "A modern instant film camera inspired by the classic 1970s Polaroid design",
+      "currency": "AUD",
+      "category": "Cameras &amp; Photography",
+      "url": "https://example.com/product/6747354227fb516596e17f0f",
+      "image_url": "https://github.com/Sellfy/test-assignment-frontend/raw/refs/heads/master/images/image-2.jpg"
+    },
+    {
+      "_id": "674dbae31041b950f7485d73",
+      "price": 12999,
+      "name": "Matte Green Stainless Steel Water Bottle",
+      "description": "A sleek, minimalistic reusable water bottle made from stainless steel with a matte green finish",
+      "currency": "CAD",
+      "category": "Drinkware",
+      "url": "https://example.com/product/674dbae31041b950f7485d73",
+      "image_url": "https://github.com/Sellfy/test-assignment-frontend/raw/refs/heads/master/images/image-3.jpg"
+    },
+    {
+      "_id": "6305e8ab1892983c1daaea98",
+      "price": 499,
+      "name": "Faberlic Bioglow Skincare (Cream + Serum)",
+      "description": "A brightening skincare duo designed to enhance natural radiance.",
+      "currency": "EUR",
+      "category": "Skincare",
+      "url": "https://example.com/product/6305e8ab1892983c1daaea98",
+      "image_url": "https://github.com/Sellfy/test-assignment-frontend/raw/refs/heads/master/images/image-4.jpg"
+    },
+    {
+      "_id": "62e3b7e3b6c79f7a4bbcf366",
+      "price": 3499,
+      "name": "Smart Watch",
+      "description": "Water-resistant smart watch with fitness tracking.",
+      "currency": "GBP",
+      "category": "Wearables",
+      "url": "https://example.com/product/62e3b7e3b6c79f7a4bbcf366",
+      "image_url": "https://github.com/Sellfy/test-assignment-frontend/raw/refs/heads/master/images/image-5.jpg"
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "total_pages": 1,
+    "total_items": 5
+  }
+}
